@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about Golang, the cloud ☁️ and AI/ML 🤖.
+I'm passionate about Golang, the cloud ☁️ and AI/ML 🤖.
 
 Always interested in opportunities around the world! 🌍 
 
