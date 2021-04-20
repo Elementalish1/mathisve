@@ -4,7 +4,7 @@ I'm passionate about Golang, the cloud ☁️ and AI/ML 🤖.
 
 Always interested in opportunities around the world! 🌍 
 
-Don't hesitate to email me at: *mathis.vaneetvelde [at] gmail.com*  
+Don't hesitate to email me at: *mathis.vaneetvelde [at] protonmail.com*  
 Or visit *[mathisvaneetvelde.com](https://mathisvaneetvelde.com)*
 
 Find my Youtube channel [here](https://youtube.com/c/mathisvaneetvelde)!
